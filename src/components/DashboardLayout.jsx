@@ -37,7 +37,7 @@ const DashboardLayout = () => {
         >
           <Toolbar>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Bloggram
+              Blognite
             </Typography>
             <div>
               <IconButton onClick={handleClick}>
