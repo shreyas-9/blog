@@ -15,7 +15,7 @@ const Topbar = () => {
         >
           <Toolbar>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Bloggram
+              Blognite
             </Typography>
             <div>
               <Button color="inherit" onClick={() => navigate("/signup")}>
